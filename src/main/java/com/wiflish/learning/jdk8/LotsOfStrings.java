@@ -3,6 +3,10 @@ package com.wiflish.learning.jdk8;
 import java.util.LinkedList;
 
 /**
+ * JVM args:  -Xmx256m -XX:+UseG1GC -XX:+UseStringDeduplication -XX:+PrintStringDeduplicationStatistics
+ *
+ * 字符串去重.
+ *
  * @author xiezhengrong.
  * @since 2.0
  */
